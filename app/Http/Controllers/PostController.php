@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-use App\models\Post;
+use App\Models\Post;
 
 use App\Http\Requests\PostRequest;
 use Illuminate\Http\Request;
